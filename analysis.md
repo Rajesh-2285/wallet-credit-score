@@ -74,4 +74,8 @@ Granting credit limits
 
 On-chain identity vetting
 
+<<<<<<< HEAD
 Filtering wallets for token or airdrop eligibility
+=======
+Filtering wallets for token or airdrop eligibility
+>>>>>>> ebc5a74faee721efac736b7f5328b14ef920730f
